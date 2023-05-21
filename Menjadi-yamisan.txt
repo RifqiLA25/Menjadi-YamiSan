@@ -6,3 +6,4 @@ Daily Gym
 -restday 2 days
 -sabtu badminton
 -minggu restday dan gereja
+-penuhi mprotein harian
